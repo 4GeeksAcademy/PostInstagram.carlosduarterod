@@ -1,0 +1,87 @@
+body {
+    background-color: black;
+    width: 100%;
+}
+
+.cuerpo {
+    font-family: 'Roboto', sans-serif;
+    background-color: white;
+    width: 20%;
+    margin: 50px auto;
+}
+
+
+/* .encabezado {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.html2 {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+
+.puntitos {
+    margin-left: auto;
+} */
+
+
+.encabezado {
+    display: flex;
+}
+
+.html1 {
+    margin-top: 32px;
+    margin-left: 5px;
+}
+
+.html2 {
+    margin-left: 10px;
+}
+
+.html2.p {
+    margin-top: 0;
+}
+
+.puntitos {
+   margin-left: auto;
+   margin-top: 32px;
+   margin-right: 5px;
+}
+
+img {
+    width: 100%;
+}
+
+.iconos {
+    margin: 10px;
+    padding-bottom: 5px;
+    display: flex;
+}
+
+.primerafrase{
+margin: 10px;
+}
+
+.segundafrase{
+margin: 10px;
+padding-bottom: 10px;
+}
+
+.corazon {
+    margin: 3px;
+}
+
+.bocadillo {
+    margin: 3px;
+}
+
+.mensaje {
+    margin: 3px;
+}
+
+.guardado {
+    margin-left: auto;
+}
